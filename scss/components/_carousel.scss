@@ -1,0 +1,14 @@
+.carousel-indicators {
+    bottom: -50px;
+    .active{
+        background-color: rgb(111, 110, 110) !important;    
+      }
+    li{
+        cursor: pointer;
+        height: 10px;
+        width: 10px;
+        border-radius: 50%;
+         margin: 0 3px;
+         background-color: rgba(145, 143, 143, 0.808);
+    }
+}

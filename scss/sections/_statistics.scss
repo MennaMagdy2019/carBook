@@ -1,0 +1,13 @@
+.statistic{
+    background-color: rgb(220, 211, 211);
+    .num{
+        text-align: center;
+        padding:120px 50px ;
+       
+        &:first-child{    
+           // padding-right: 20px;
+            text-align: end;
+            background-color: #B3D8FB;
+        }
+    }
+}

@@ -1,0 +1,7 @@
+.textAbout{
+    padding: 50px;
+    @include media-breakpoint-up(md) { 
+        padding-left: 100px;
+     }
+     
+}
